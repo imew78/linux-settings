@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/imew/tmp/lazybones-toolset'
+let g:netrw_dirhist_2='/Users/imew/CLionProjects/lazybones-shared-log/build'
+let g:netrw_dirhist_3='/Users/imew/tmp/lazybones-shared-log-client/.git'
+let g:netrw_dirhist_4='/Users/imew/tmp/lazybones-shared-log'
+let g:netrw_dirhist_5='/Users/imew/tmp/grpc-1.12.0/.git'
+let g:netrw_dirhist_6='/Users/imew/garage/go/src/oss.navercorp.com/dot/lazybones-shared-log/server/shared_log'
+let g:netrw_dirhist_7='/Users/imew/go/src/oss.navercorp.com/dot'
+let g:netrw_dirhist_8='/Users/imew/garage/go/src/oss.navercorp.com/dot/lazybones-shared-log/server'
+let g:netrw_dirhist_9='/Users/imew/garage/go/src/oss.navercorp.com/eunji-yi/grpc-exercise/proto'
